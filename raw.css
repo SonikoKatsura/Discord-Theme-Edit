@@ -1646,7 +1646,7 @@ header.header-2o-2hj.da-header.banner-1TiK82.da-banner {
 }
 /* Channel Unread */
 .colorConnectedText-1c_uzY, .colorDefaultText-oas-QM, .colorHoveredText-OZnAgu, .colorLockedText-1VRkPt, .colorLockedVoice-2UlBjl, .colorSelectedText-1y4Wvs, .colorSelectedVoice-Xcb_9R, .colorUnreadText-2t7XRb {
-  color: red;
+  color: transparent;
 }
 .unread-3zKkbm {
   border-radius: 5px;
@@ -1656,7 +1656,6 @@ header.header-2o-2hj.da-header.banner-1TiK82.da-banner {
   position: absolute;
   top: 50%;
   width: 8px;
-  color:red;
 }
 
 .read-3zKkbm {
